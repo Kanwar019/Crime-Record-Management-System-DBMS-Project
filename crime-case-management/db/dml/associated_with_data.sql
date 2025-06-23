@@ -1,0 +1,14 @@
+INSERT INTO associated_with (case_id, criminal_id) VALUES (201, 601);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (202, 602);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (203, 603);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (204, 604);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (205, 605);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (206, 606);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (207, 607);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (208, 608);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (209, 609);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (210, 610);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (211, 611);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (212, 612);
+INSERT INTO associated_with (case_id, criminal_id) VALUES (213, 613);
+COMMIT;

@@ -1,0 +1,14 @@
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (301, 201, 'Forensics', 'Blood sample from scene', 'Lab A1');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (302, 202, 'Clothes', 'Torn clothes from victim', 'Locker C2');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (303, 203, 'CCTV Footage', 'Kid seen leaving with unknown person', 'DigitalVault 1');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (304, 204, 'CCTV Footage', 'Of hostel door', 'DigitalVault 4');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (305, 205, 'Audio Recording', 'Phone call evidence', 'DigitalVault 3');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (306, 206, 'Ash Sample', 'Collected from house debris', 'Lab B1');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (307, 207, 'Financial Logs', 'Bank records of missing funds', 'Locker E3');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (308, 208, 'Statements', 'Victim rescue reports', 'DigitalVault 4');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (309, 209, 'Pattern Analysis', 'Serial pattern evidence', 'Lab D1');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (310, 210, 'Screenshots', 'UPI scam chat screenshots', 'Locker F2');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (311, 211, 'Statements', 'Statement of the rescued girl', 'DigitalVault 3');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (312, 212, 'CCTV Footage', 'Crime caught on camera', 'Locker E3');
+INSERT INTO evidence (evidence_id, case_id, evidence_type, description, storage_location) VALUES (313, 213, 'Clothes', 'Blood sample from scene', 'Lab D1');
+COMMIT;

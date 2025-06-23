@@ -1,0 +1,11 @@
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (3,'Officer Karan','karan.singh@police.gov','Cyber Cell Officer','Police HQ','8987324567','M0CVZvooA');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (5,'Inspector Raj','raj.yadav@police.gov','Forensics Officer','Thana 5','9348271538','E%gC2aTbSP');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (6,'ACP Seema','seema.acp@police.gov','Patrolling Officer','Police HQ','9023451890','Z0BvXnqT33');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (8,'SI Mahesh','mahesh.si@police.gov','Forensics Officer','Thana 2','8123875648','htzj&8rVL5');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (9,'DSP Ajay','ajay.dsp@police.gov','Investigation Officer','Headquart','8792346510','Tf!38LznKr');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (10,'DSP Rajeev Das','rajeev.dsp@police.gov','Investigation Officer','Thana 7','9812354789','Ytf#94VmBx2');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (11,'Officer Sunil Rao','sunil.rao@trafficpolice.gov','Traffic Control Officer','Police HQ','8893456721','Qw^29PsHd4');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (12,'Officer Pooja Nair','pooja.nair@trafficpolice.gov','Investigation Officer','Thana 2','7913257541','Lm@56TrBg8');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (13,'SI Tarun Joshi','tarun.joshi@police.gov','Cyber Cell Officer','Cyber Winq','7778452926','Vn!47BsQk9');
+INSERT INTO users (user_id, user_name, email, user_role, address, phone_no, password) VALUES (14,'Inspector Isha','isha.inspector@police.gov','Forensics Officer','Thana 1','8255240191','D$5ghy4&^p0');
+COMMIT;

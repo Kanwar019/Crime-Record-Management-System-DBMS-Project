@@ -1,0 +1,14 @@
+INSERT INTO references_to (trial_id, criminal_id) VALUES (501, 601);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (502, 602);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (503, 603);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (504, 604);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (505, 605);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (506, 606);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (507, 607);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (508, 608);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (509, 609);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (510, 610);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (511, 611);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (512, 612);
+INSERT INTO references_to (trial_id, criminal_id) VALUES (513, 613);
+COMMIT;

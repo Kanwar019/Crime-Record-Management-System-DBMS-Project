@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "oracleOptions": {
+                "privilege": "SYSDBA",
+                "thickMode": false,
+                "autoCommit": false,
+                "lowerCase": false,
+                "limitPrefetchRows": false
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1521,
+            "driver": "Oracle",
+            "name": "DBMS@Project2",
+            "database": "orcl",
+            "username": "sys",
+            "password": "Kan*1711#"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

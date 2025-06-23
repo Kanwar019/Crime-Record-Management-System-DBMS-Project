@@ -1,0 +1,11 @@
+BEGIN
+  EXECUTE IMMEDIATE '
+    CREATE TABLE crime (
+      crime_id   NUMBER         PRIMARY KEY,
+      crime_type VARCHAR2(50)   NOT NULL
+    )';
+EXCEPTION
+  WHEN OTHERS THEN
+    IF SQLCODE != -955 THEN RAISE; END IF;
+END;
+/

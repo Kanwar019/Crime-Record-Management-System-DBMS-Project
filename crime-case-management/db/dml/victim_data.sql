@@ -1,0 +1,14 @@
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (401, 201, 'Unknown Male', 'Rose Garden', 'Male', 'Found dead near bushes');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (402, 202, 'Meena Sharma', 'Sector 8', 'Female', 'Assaulted near bus stand');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (403, 203, 'Aarav Mehra', 'Sector 15', 'Male', 'Kidnapped after school');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (404, 204, 'Harshit Bansal', 'Thapar Hostel', 'Male', 'Laptop stolen from room');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (405, 205, 'Suman Verma', 'Urban Estate', 'Female', 'Husband abusive for 3 years');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (406, 206, 'Kuldeep Singh', 'Phase 3B1', 'Male', 'House fire broke out at 2 AM');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (407, 207, 'Company ABC Pvt.', 'Sector 34', 'Other', '₹8 lakhs missing');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (408, 208, 'Rani Mehta', 'Industrial Area', 'Female', 'Rescued from human traffickers');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (409, 209, 'Multiple victims', 'Sector 18', 'Female', '3 similar murders in a week');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (410, 210, 'Reema Das', 'Online', 'Female', 'Lost ₹50,000 to online scam');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (411, 211, 'Khushi Jindal', 'Port Warehouse', 'Female', 'Kidnapped while coming out of Temple');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (412, 212, 'Ramesh Kumar', 'Old Subway Tunnel', 'Male', 'Found dead at a Old Subway Tunnel');
+INSERT INTO victim (victim_id, case_id, victim_name, address, gender, victim_statement) VALUES (413, 213, 'Deepak Chabra', 'Eastwood High', 'Male', 'Assaulted by multiple a man');
+COMMIT;

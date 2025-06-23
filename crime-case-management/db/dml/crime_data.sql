@@ -1,0 +1,11 @@
+INSERT INTO crime (crime_id, crime_type) VALUES (101, 'Murder');
+INSERT INTO crime (crime_id, crime_type) VALUES (102, 'Sexual Assault');
+INSERT INTO crime (crime_id, crime_type) VALUES (103, 'Kidnapping');
+INSERT INTO crime (crime_id, crime_type) VALUES (104, 'Theft');
+INSERT INTO crime (crime_id, crime_type) VALUES (105, 'Domestic Violence');
+INSERT INTO crime (crime_id, crime_type) VALUES (106, 'Arson');
+INSERT INTO crime (crime_id, crime_type) VALUES (107, 'Embezzlement');
+INSERT INTO crime (crime_id, crime_type) VALUES (108, 'Human Trafficking');
+INSERT INTO crime (crime_id, crime_type) VALUES (109, 'Serial Killing');
+INSERT INTO crime (crime_id, crime_type) VALUES (110, 'Online Scam');
+COMMIT;
